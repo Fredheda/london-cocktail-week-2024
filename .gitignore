@@ -1,4 +1,7 @@
 .ipynb_checkpoints
-bar_csvs/*
+data/*
 !bar_csvs/.gitkeep
 .env
+.venv
+*venv*
+.venv/*
